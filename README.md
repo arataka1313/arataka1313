@@ -41,7 +41,7 @@
 
 ---
 
-### 📚 Certification（資格）
+### 📚 Certification
 
 - 🇬🇧 英検2級, TOEIC750点  
 - 🇨🇳 中国語検定3級  
