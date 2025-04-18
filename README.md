@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TAKA</h1>
 
 <p align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Neko GIF" />
