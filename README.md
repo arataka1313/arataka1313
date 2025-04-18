@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm TAKA</h1>
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Neko GIF" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" height="180" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" height="110" alt="Quote" />
+</div>
 ---
 
 ### 🐱 Cat Meme of the Day
