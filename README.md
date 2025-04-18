@@ -1,13 +1,24 @@
 <h1 align="center">Hi 👋, I'm TAKA</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Lover+%F0%9F%90%8D;Welcome+To+My+Profile+%F0%9F%96%A5%EF%B8%8F;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Lover+%F0%9F%90%8D;Building+tools+with+AI+%F0%9F%96%A5%EF%B8%8F;Coffee+%26+Code+every+day+%E2%98%95;Learning+Rust%2C+VR%2C+Life;Powered+by+Neko+Energy+%F0%9F%90%88" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Neko GIF" />
+</p>
+
+---
+
+### 🐱 Cat Meme of the Day
+<p align="center">
+  <img src="https://cataas.com/cat/says/I%20write%20better%20code%20with%20cats!" width="400" alt="Cat Meme" />
 </p>
 
 ---
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,git,docker,c,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,git,docker,c,linux,rust,blender" />
 </p>
 
 ---
@@ -51,6 +62,7 @@
 ### 🏕 Little things I enjoy
 - 🎧 Lo-fiと共にコーディング
 - ☕ コーヒー片手に深夜のデバッグ
+- 🐈 猫を膝に乗せながら作業（至福）
 - 🧳 世界のカフェでリモートワークすること（未来）
 
 ---
