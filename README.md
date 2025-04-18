@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm TAKA</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Neko GIF" style="margin-left: 20px;" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500" alt="Quote" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Neko GIF" />
+      </td>
+      <td>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500" alt="Quote" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
