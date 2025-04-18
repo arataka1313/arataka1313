@@ -6,7 +6,7 @@
 ---
 
 ### 🧰 Skills
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,git,docker,C,linux" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,git,docker,c,linux" />
 
 ---
 
