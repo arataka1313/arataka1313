@@ -1,6 +1,10 @@
-<h1 align="center">Hi👋 I'm TAKA</h1>
+<h1 align="center">Hi 👋, I'm TAKA</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Lover+%F0%9F%90%8D;Building+tools+with+AI+%F0%9F%96%A5%EF%B8%8F;Coffee+%26+Code+every+day+%E2%98%95;Learning+Rust%2C+VR%2C+Life;Powered+by+Neko+Energy+%F0%9F%90%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+Lover+%F0%9F%90%8D;Building+tools+with+AI+%F0%9F%96%A5%EF%B8%8F;Coffee+%26+Code+every+day+%E2%98%95;Learning+Rust%2C+VR%2C+Life;Powered+by+Neko+Energy+%F0%9F%90%88;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="400" alt="Quote" />
 </p>
 
 <p align="center">
