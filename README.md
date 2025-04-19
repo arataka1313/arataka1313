@@ -1,10 +1,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arataka1313.arataka1313)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+TAKA!;Welcome+to+my+GitHub+profile!;Enjoy+my+projects+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=5000&pause=1200&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+TAKA!;Welcome+to+my+GitHub+profile!;Enjoy+my+projects+💻" alt="Typing SVG" />
 </p>
-
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Neko GIF" />
