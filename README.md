@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arataka1313.arataka1313)
 
-<h1 align="center">Hi 👋, I'm TAKA</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+TAKA!;Welcome+to+my+profile!&center=true&width=500&height=50)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Neko GIF" />
