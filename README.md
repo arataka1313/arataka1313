@@ -2,15 +2,8 @@
 
 <p align="center">
   <table>
-    <tr>
-      <td>
         <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Neko GIF" />
-      </td>
-      <td>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500" alt="Quote" />
-      </td>
-    </tr>
-  </table>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500" height="180" alt="Quote" />
 </p>
 
 ### 🐱 Cat Meme of the Day
@@ -43,7 +36,7 @@
 
 ### 📚 Certification
 
-- 🇬🇧 英検2級, TOEIC750点  
+- 🇺🇸 英検2級, TOEIC750点  
 - 🇨🇳 中国語検定3級  
 - 🧑‍💼 秘書検定2級  
 - 🔫 狩猟免許（あみ・わな・銃）  
