@@ -1,6 +1,6 @@
-[![Hits](https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https://github.com/arataka1313/your-repo&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://github.com/arataka1313/your-repo)
-
 <h1 align="center">Hi 👋, I'm TAKA</h1>
+
+[![Hits](https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https://github.com/arataka1313/arataka1313&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://github.com/arataka1313/arataka1313)
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Neko GIF" />
