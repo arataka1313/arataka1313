@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https://github.com/your-username/your-repo&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://github.com/your-username/your-repo)
+
 <h1 align="center">Hi 👋, I'm TAKA</h1>
 
 <p align="center">
