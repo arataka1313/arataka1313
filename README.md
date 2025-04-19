@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm TAKA</h1>
 
+### 🐱 Cat Meme of the Day
 <p align="center">
   <table>
         <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Neko GIF" />
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500" height="180" alt="Quote" />
+        <img src="https://cataas.com/cat/says/I%20write%20better%20code%20with%20cats!" width="400" alt="Cat Meme" />
 </p>
 
-### 🐱 Cat Meme of the Day
 <p align="center">
-  <img src="https://cataas.com/cat/says/I%20write%20better%20code%20with%20cats!" width="400" alt="Cat Meme" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500" height="180" alt="Quote" />
 </p>
 
 ---
