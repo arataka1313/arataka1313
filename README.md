@@ -4,8 +4,6 @@
   <img src="https://raw.githubusercontent.com/EmiTamaki-lab/assets/main/animated_hi_cat_font.svg" width="600" />
 </p>
 
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Neko GIF" />
   <span>&nbsp;&nbsp;&nbsp;</span>
