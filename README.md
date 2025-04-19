@@ -6,6 +6,20 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500" alt="Quote" />
 </p>
 
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
