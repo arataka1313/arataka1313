@@ -61,7 +61,7 @@ Sunday       15 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     1 hr 15 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,7 +74,7 @@ Python                   5 repos             ███████████�
 
 
 
- Last Updated on 13/05/2025
+ Last Updated on 15/05/2025
 <!--END_SECTION:waka-->
 
 ---
