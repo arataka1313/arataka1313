@@ -20,7 +20,7 @@
 ### 🧑‍💻 Coding Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -61,7 +61,8 @@ Sunday       15 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 36 mins        █████████████████████████   99.58% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 ```
 
@@ -74,7 +75,7 @@ Python                   5 repos             ███████████�
 
 
 
- Last Updated on 17/05/2025
+ Last Updated on 18/05/2025
 <!--END_SECTION:waka-->
 
 ---
