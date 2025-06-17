@@ -24,7 +24,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 87 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 📦 130.4 kB Used in Github's Storage 
  > 
@@ -75,7 +75,7 @@ TypeScript               4 repos             █████████░░�
 
 
 
- Last Updated on 16/06/2025
+ Last Updated on 17/06/2025
 <!--END_SECTION:waka-->
 
 ---
