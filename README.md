@@ -20,7 +20,7 @@
 ### 🧑‍💻 Coding Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My Github Data** 
 
@@ -75,7 +75,7 @@ TypeScript               5 repos             ██████████░�
 
 
 
- Last Updated on 08/07/2025
+ Last Updated on 10/07/2025
 <!--END_SECTION:waka-->
 
 ---
